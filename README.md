@@ -3,4 +3,4 @@
 - Can easily be adapted to other input data. Changes would probably be need to made to the date logic
 - Currently configured to run cell-by-cell in a Notebook. Should be configured properly with functions and main
 
-- Script was exectud once for each of three groups of villages. "group" variable was configured for each run. 
+- Script was executed once for each of three groups of villages. "group" variable was configured for each run. The input road points were edited after the first and second runs to include previous least cost paths. 
